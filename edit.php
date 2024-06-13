@@ -36,7 +36,7 @@ if (!empty($_GET['id'])) {
     <link rel="stylesheet" href="./css/cores.css">
     <style>
         body {
-            background-image: url('./img/batman2.gif');
+            background-image: url('./img/batman.gif');
             background-size: cover; 
             background-position: center; 
             background-repeat: no-repeat; 
