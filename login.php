@@ -52,7 +52,7 @@ if (isset($_POST['submit'])) {
                 <button type="submit" name="submit" id="submit" class="btn">Login</button>
                 <div class="login-register">
                     <p>Não tem uma conta?<a href="#" class="register-link"> Registrar-se</a></p>
-                    <p><a href="index.html" class="register-link"> Voltar</a></p>
+                    <p><a href="index.php" class="register-link"> Voltar</a></p>
                 </div>
             </form>
         </div>
