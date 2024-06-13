@@ -1,6 +1,6 @@
 <?php
 $nome_servidor = "atividade122625";
-$nome_usuario = "arthur12";
+$nome_usuario = "arthur123";
 $senha = "12345678";
 $nome_banco = "atividade122625";
 
